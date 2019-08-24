@@ -34,5 +34,3 @@ test_y = test(:, Target);
 %% Feature Selection Process
 % ECFS
 [r_ECFS, w_ECFS] = ECFS_Zeal(train_X, train_y, 0.5)
-
-
